@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My website portfolio](https://jontruiz1.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://jontruiz1.github.io/](https://jontruiz1.github.io/)
+- 👨‍💻 All of my public projects are available at [https://jontruiz1.github.io/](https://jontruiz1.github.io/)
 
 - 📫 How to reach me **jontheruiz4@gmail.com**
 
