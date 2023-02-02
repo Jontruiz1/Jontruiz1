@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Ruiz</h1>
 <h3 align="center">An undergraduate Computer Science student looking for internships and job opportunities</h3>
 
-- 🔭 I’m currently working on [My website portfolio](https://jontruiz1.github.io/)
+- 🔭 I’m currently working on [my website portfolio](https://jontruiz1.github.io/)
 
 - 👨‍💻 All of my public projects are available at [https://jontruiz1.github.io/](https://jontruiz1.github.io/)
 
