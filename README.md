@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jonathan Ruiz</h1>
+<h1 align="center">Hi, I'm Jonathan Ruiz</h1>
 <h3 align="center">An undergraduate Computer Science student looking for internships and job opportunities</h3>
 
-- 🔭 I’m currently working on [my website portfolio](https://jontruiz1.github.io/) and a Discord Bot written in python
+- I’m currently working on [my website portfolio](https://jontruiz1.github.io/) and a Discord Bot written in python
 
-- 👨‍💻 All of my public projects are available at [https://github.com/Jontruiz1?tab=repositories](https://github.com/Jontruiz1?tab=repositories)
+- All of my public projects are available at [https://github.com/Jontruiz1?tab=repositories](https://github.com/Jontruiz1?tab=repositories)
 
-- 📫 How to reach me **jontheruiz4@gmail.com**
+- How to reach me **jontheruiz4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
