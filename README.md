@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jonathan Ruiz</h1>
-<h3 align="center">An undergraduate Computer Science student looking for internships and job opportunities</h3>
+<h3 align="center">Looking for Computer Science internships and job opportunities</h3>
 
 - I’m currently working on [my website portfolio](https://jontruiz1.github.io/) and a Discord Bot written in python
 
