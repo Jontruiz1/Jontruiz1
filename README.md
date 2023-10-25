@@ -5,7 +5,7 @@
 
 - All of my public projects are available [here](https://github.com/stars/Jontruiz1/lists/public)
 
-- How to reach me **jontheruiz4@gmail.com**
+- How to reach me: **jontheruiz4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
