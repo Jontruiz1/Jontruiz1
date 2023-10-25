@@ -3,7 +3,7 @@
 
 - I’m currently working on [my website portfolio](https://jontruiz1.github.io/) and a Discord Bot written in python
 
-- All of my public projects are available at [https://github.com/Jontruiz1?tab=repositories](https://github.com/Jontruiz1?tab=repositories)
+- All of my public projects are available [here]([https://github.com/Jontruiz1?tab=repositories](https://github.com/stars/Jontruiz1/lists/public))
 
 - How to reach me **jontheruiz4@gmail.com**
 
