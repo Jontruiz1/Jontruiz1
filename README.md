@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jonathan Ruiz</h1>
-<h3 align="center">I'm exploring the world of Computer Science in any way I possibly can!</h3>
+<h3 align="center">I'm exploring the world of Computer Science in any way I can!</h3>
 
 - All of my public projects are available [here](https://github.com/stars/Jontruiz1/lists/public)
 
